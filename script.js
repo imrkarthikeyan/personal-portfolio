@@ -14,6 +14,6 @@ document.addEventListener("DOMContentLoaded",function(){
         window.location.href="mailto:rkarthikeyan578@gmail.com";
     });
     btn.addEventListener("click",function(){
-        window.open("https://drive.google.com/file/d/1f-M5LHIX3MkTb4wqL5n-SuQfMZpxRebn/view?usp=sharing","_blank");
+        window.open("https://drive.google.com/file/d/13L1UIkRFBhFrEMJcL2XJH0F-wDtfhoGA/view?usp=sharing","_blank");
     });
 });
