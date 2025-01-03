@@ -1,0 +1,15 @@
+body{
+    color:white;
+    background-color:rgb(10, 130, 251);
+}
+span{
+    color:yellow;
+}
+.one{
+    color:rgb(223, 219, 219);
+}
+button{
+    background-color:skyblue;
+    font-size: medium;
+    height: 30px;
+}
